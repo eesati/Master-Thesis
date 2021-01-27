@@ -1,0 +1,94 @@
+{
+  "files" : [ {
+    "remoteURL" : "http://arduino.esp8266.com/stable/package_esp8266com_index.json",
+    "localPath" : "/Users/elfatesati/Library/Arduino15/cache/arduino.esp8266.com/stable/package_esp8266com_index.json",
+    "eTag" : "5f270c11-1ccf4",
+    "md5" : "MD5:1ea3e227b03ad7f1e99a3af0eba84a9e",
+    "createdAt" : "2020-08-24T01:02:03.299",
+    "cacheControl" : {
+      "maxAge" : 600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-24T01:12:03.299"
+  }, {
+    "remoteURL" : "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json",
+    "localPath" : "/Users/elfatesati/Library/Arduino15/cache/raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json",
+    "eTag" : "45f843a0a198729e796fb8a2969002bfc988214cc8ca24a611f629c5bfc5f94a",
+    "md5" : "MD5:f95fe7ca0387c61ee1cf15e0fbbffc58",
+    "createdAt" : "2020-08-25T00:56:49.118",
+    "cacheControl" : {
+      "maxAge" : 300,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-25T01:01:49.118"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "/Users/elfatesati/Library/Arduino15/cache/downloads.arduino.cc/libraries/library_index.json.gz",
+    "eTag" : "df40d95a0a30b20acda71f890a6521ef",
+    "md5" : "MD5:df40d95a0a30b20acda71f890a6521ef",
+    "createdAt" : "2021-01-24T11:57:33.919",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2021-01-24T15:57:33.919"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "/Users/elfatesati/Library/Arduino15/cache/downloads.arduino.cc/packages/package_index.json.sig",
+    "eTag" : "704ffc1e85d51419342b6930c9b33d0e",
+    "md5" : "MD5:704ffc1e85d51419342b6930c9b33d0e",
+    "createdAt" : "2021-01-24T11:57:32.961",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2021-01-24T12:57:32.961"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "/Users/elfatesati/Library/Arduino15/cache/downloads.arduino.cc/libraries/library_index.json.sig",
+    "eTag" : "df878ef69923c2c939a92d11f3c30fdb",
+    "md5" : "MD5:df878ef69923c2c939a92d11f3c30fdb",
+    "createdAt" : "2021-01-24T11:57:34.787",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2021-01-24T15:57:34.787"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "/Users/elfatesati/Library/Arduino15/cache/downloads.arduino.cc/packages/package_index.json",
+    "eTag" : "49bbc5966849aeba610d68aafdc6276b",
+    "md5" : "MD5:49bbc5966849aeba610d68aafdc6276b",
+    "createdAt" : "2021-01-24T11:57:32.873",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2021-01-24T12:57:32.873"
+  }, {
+    "remoteURL" : "https://dl.espressif.com/dl/package_esp32_index.json",
+    "localPath" : "/Users/elfatesati/Library/Arduino15/cache/dl.espressif.com/dl/package_esp32_index.json",
+    "eTag" : "5ecf589f-40db",
+    "md5" : "MD5:679997c493a03acebb280957acc01eae",
+    "createdAt" : "2021-01-24T11:57:32.409",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2021-01-24T12:57:32.409"
+  } ]
+}
