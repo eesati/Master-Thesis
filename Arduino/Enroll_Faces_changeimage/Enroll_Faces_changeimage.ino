@@ -15,6 +15,9 @@
 
 #include "camera_pins.h"
 
+
+//const char* ssid = "WN-52CC85";
+//const char* password= "9ed9e32222";
 const char* ssid = "Wn-VKCGMR";
 const char* password = "test1234";
 
